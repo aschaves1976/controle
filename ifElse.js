@@ -6,5 +6,5 @@ const imprimirResultado = function (nota){
     }
 }
 
-imprimirResultado(isNumeric(5))
+imprimirResultado(5)
 imprimirResultado(7)
